@@ -1,20 +1,11 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "The art of communication"
+subtitle: "What I have learned in TW."
+author: "crystalGuo"
+avatar: "img/authors/crystalGuo.jpg"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2015-11-27 12:12:12
 ---
-
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
-
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+##The art of communication
+沟通的艺术这节课是由申彤姐给我们讲解的。觉得非常的有趣，生动，形象。刚开始的时候，大家玩了一个小游戏，一个组大约五个人，每个人在一张白纸上写上一句自己喜欢的话，折叠起来然后传递给下一个小伙伴。下一个小伙伴看到文字就用图画将其描述出来，看到图画就用文字描述出来，直到传到自己的手中。我写的那句话是“`我喜欢睡觉`”，结果传到我的手里时竟然变成了“`我爱你`”。游戏做完后，觉得用自己不擅长的方式去与他人沟通效果真的是大大折扣，尤其是在以后工作之后，最好选择面对面及时沟通这种方式，因为它是最为有效的。下来就是一个workshop，还是分成小组，每组手里都会有一摞小卡片，分别有backlog，dong，QA，done四类。然后让我们组内讨论决定出下周需要完成的任务。（ps:申彤姐还是给我们挖了很多坑的，不过这样印象才会更加深刻。）我们需要把时间分配的非常合理，这样才能保证每个人每天都有事情做，大家各司其职，井井有条，提高效率。workshop让我想到了我们曾经开设过的一门课程《软件项目管理》，有一章讲的是`活动策划`，主要是产生项目的活动计划，估计项目的总周期，创建项目的关键路径和优先网络，觉得这门课确实如我们老师所说的，工作几年之后再去看的话效果会更好。因为当时听的云里雾里的，尤其是甘特图之类的，不知道怎么用。下午的时候讲了一些case，以及如何更好的做feedback。我非常喜欢feedback这个环节，因为这样才会让自己认识到一些不足和需要改进的地方，从而进步的更快。
+ps：我觉得申彤姐很漂亮，她那飘逸的长发我觉得好好看，可惜我把我的长发给减掉了。性格活泼开朗，讲课幽默风趣，超级喜欢！！！！
